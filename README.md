@@ -1,5 +1,5 @@
-# Loak Submissions README
-👋 Welcome to the *Loak Submissions README*! This document provides instructions and required steps for submitting a Unity AR experience to Loak. A filled out copy of this document should be included in your project hierarchy for any submission to the Loak platform.
+# Loak Submission README
+👋 Welcome to the *Loak Submission README*! This document provides instructions and required steps for submitting a Unity AR experience to Loak. A filled out copy of this document should be included in your project hierarchy for any submission to the Loak platform.
 
 ## Submission Instructions
 1. Create an AR experience on Unity 🔨 
